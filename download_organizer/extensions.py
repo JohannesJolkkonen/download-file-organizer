@@ -52,4 +52,3 @@ extensions = {
     '.gif': 'dl_images',
     '.svg': 'dl_images',
 }
-    
